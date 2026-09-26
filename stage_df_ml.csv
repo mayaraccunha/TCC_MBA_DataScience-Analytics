@@ -1,0 +1,15 @@
+ingrediente_limpo;classification_reg_1272;qtd_produtos_comerciais;risco_aquatico;risco_agudo_humano;risco_cancer_mutacao;risco_reprodutivo;cluster_risco
+TRIADIMENOL;"Acute Tox. 4 - H302; Aquatic Chronic 2 - H411; Lact. - H362; Repr. 1B - H360";10;1;1;0;1;2
+FIPRONIL;"Acute Tox. 3 - H301; Acute Tox. 3 - H311; Acute Tox. 3 - H331; Aquatic Acute 1 - H400; Aquatic Chronic 1 - H410; STOT RE 1 - H372";1046;1;1;0;0;1
+PROPANIL;"Acute Tox. 4 - H302; Aquatic Acute 1 - H400";100;1;1;0;0;1
+AMITRAZ;"Acute Tox. 4 - H302; Aquatic Acute 1 - H400; Aquatic Chronic 1 - H410; STOT RE 2 - H373; Skin Sens. 1 - H317";3;1;1;0;0;1
+FLUTRIAFOL;0;1654;0;0;0;0;0
+SAFLUFENACIL;0;684;0;0;0;0;0
+INDAZIFLAM;0;316;0;0;0;0;0
+METOMINOSTROBIN;0;79;0;0;0;0;0
+METAFLUMIZONE;0;61;0;0;0;0;0
+METIRAM;0;57;0;0;0;0;0
+TOLFENPYRAD;0;45;0;0;0;0;0
+ASULAM;0;20;0;0;0;0;0
+FLUMETSULAM;0;12;0;0;0;0;0
+METAMIFOP;0;8;0;0;0;0;0

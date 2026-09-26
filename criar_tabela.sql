@@ -1,0 +1,2 @@
+CREATE DATABASE colonialismo_quimico;
+USE colonialismo_quimico;
