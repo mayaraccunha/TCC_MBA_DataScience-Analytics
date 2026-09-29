@@ -12,7 +12,7 @@ except FileNotFoundError:
     exit()
     
 # 2. Conexão com o MysSQL
-engine = create_engine('mysql+pymysql://root:Lilo%401507@localhost:3306/colonialismo_quimico')
+engine = create_engine('mysql+pymysql://root:SENHA_AQUI@localhost:3306/colonialismo_quimico')
 
 # 3. Populando a Tabela dim_ingrediente
 print("Limpando a lista de ingredientes...")
